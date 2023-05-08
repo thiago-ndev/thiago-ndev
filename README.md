@@ -1,5 +1,4 @@
-### Hi there 👋
-## Hello! I'm Thiago Alves 😃
+## Olá! Eu sou Thiago Alves 😃
 
 ## 🧑🏾 Me :
 ### Eu sou um apaixonado por tecnologia e gosto de usar os meus conhecimentos para resolver problemas analisando a situação de maneira diferente, tenho 23 anos e a minha meta é evoluir e aprender cada dia mais. 👨‍💻
@@ -18,7 +17,7 @@
 <img aling="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img aling="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img aling="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img aling="center" alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=whitelogoColor=white">
+<img aling="center" alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=whitelogoColor=white"><br>
 <img aling="center" alt="Pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
 <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img aling="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
