@@ -1,7 +1,7 @@
 ## Olá! Eu sou Thiago Alves 😃
 
 ## 🧑🏾 Me :
-### Eu sou um apaixonado por tecnologia e gosto de usar os meus conhecimentos para resolver problemas analisando a situação de maneira diferente, tenho 23 anos e a minha meta é evoluir e aprender cada dia mais. 👨‍💻
+###  gosto de usar os meus conhecimentos para resolver problemas analisando a situação de maneira diferente, tenho 23 anos e a minha meta é evoluir e aprender cada dia mais. 👨‍💻
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-alves-webdev/)
 [![blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiago-ndev)
