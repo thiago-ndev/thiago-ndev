@@ -8,8 +8,6 @@
 
 
 
-![thiago-ndev GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago-ndev&show_icons=true&theme=dracula)
-
 
 ### Tecnologias que eu estou aprendendo 
 <div style="display: inline_block">
